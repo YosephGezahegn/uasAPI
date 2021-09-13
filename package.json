@@ -1,0 +1,20 @@
+{
+  "name": "uasapi",
+  "version": "1.0.0",
+  "description": "An API to access universities in Finland, I'm using it for personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosephGezahegn/uasAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosephGezahegn/uasAPI/issues"
+  },
+  "homepage": "https://github.com/YosephGezahegn/uasAPI#readme"
+}
