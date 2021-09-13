@@ -1,0 +1,40 @@
+{
+  "uas": [
+    {
+      "id": 0,
+      "name": "Haaga-Helia University of Applied Sciences",
+      "restaurant": "Honest Burgers",
+      "web": "www.haaga-helia.fi",
+      "location": ["Pasila campus", "Porvoo campus"],
+      "studypath": [
+        {
+          "studyPathId": 0,
+          "name": "Sustainable Aviation Business",
+          "lang": "English",
+          "degree title": "BAA",
+          "typeOfTraining": "Masters",
+          "extent ": "90",
+          "description ": "The Degree Program in Sustainable Aviation Business is planned especially for experts working already in various aviation sectors. ",
+          "noOfStudents ": "90",
+          "tuitionFee ": "9500",
+          "duration ": "2",
+          "applicationStart ": "01.09",
+          "applicationEnd ": "15.09"
+        },
+        {
+          "studyPathId": 1,
+          "name": "Business Information Technology",
+          "degree title": "BAA",
+          "typeOfTraining": "Degree",
+          "extent ": "210",
+          "description ": "The Degree Program in Sustainable Aviation Business is planned especially for experts working already in various aviation sectors. ",
+          "noOfStudents ": "25",
+          "tuitionFee ": "10500",
+          "duration ": "3.5",
+          "applicationStart ": "01.09",
+          "applicationEnd ": "15.09"
+        }
+      ]
+    }
+  ]
+}
